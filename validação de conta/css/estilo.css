@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+body{
+    font-family: 'Quicksand';
+}
+header{
+    padding: 102px 0 0 20px;
+}
+header h1{
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #1A1A1A;
+
+
+}
+.ja_tem_conta{
+    /* format text */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #1A1A1A;
+
+    /* format position */
+    display: flex;
+    column-gap: 13px;
+}
+#entrar{
+    color: 
+    #D3310C;
+}
+main{
+    padding: 12px;
+}
+.bloco{
+    width: 320px;
+    
+
+    background-color: #E7EAF2;
+    border-radius: 5px;
+
+    margin-bottom: 15px;
+}
+.bloco:hover{
+    border: #D3310C solid 1px;
+}
+.bloco_p{
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    color: #718387;
+    padding-left: 16px;
+    padding-top: 16px;
+
+    margin-top: 0;
+
+
+}
+.bloco_caixa{
+    width: 250px;
+    border: solid 0;
+    margin-left: 16px;
+    border-radius: 5px;
+    background-color: #E7EAF2;
+
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+
+    margin-bottom: 5px;
+
+    color: #1A1A1A;
+
+
+}
+#mensagem{
+    width: 320px;
+    height: 30px;
+}
+#div_botao{
+    width: 320px;
+    height: 52px;
+    margin-top: 15px;
+
+}
+#botao{
+    /* Rectangle 44 */
+
+    width: 320px;
+    height: 52px;
+
+    background: #D3310C;
+    border: #D3310C;
+    border-radius: 5px;
+
+    
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}

@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap');
+
+
+body{
+    width: 360px;
+    height: 800px;
+}
+header{
+    padding-top: 100px;
+    padding-bottom: 40px;
+}
+header h1{
+    width: 254px;
+    height: 30px;
+    margin: auto;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 30px;
+    color: #1A1A1A;
+}
+main{
+    text-align: center;
+}
+.maim_img{
+    width: 130px;
+    height: 107px;
+    margin: auto;
+}
+#texto_p{
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+}
+#botao_v{
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    color: #1A1A1A;
+
+    width: 320px;
+    height: 52px;
+    
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.texto_ajuda{
+    display: flex;
+    column-gap: 5px;
+
+    padding-top: 24px;
+    width: 180px;
+    margin: auto;
+}
+#texto_ajuda_plobema{
+    height: 28px;
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    text-align: center;
+
+    margin: 0;
+}
+#texto_ajuda_suporte_link{
+    height: 28px;
+
+    text-align: center;
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 28px;
+    text-align: center;
+    color: #D3310C;
+}

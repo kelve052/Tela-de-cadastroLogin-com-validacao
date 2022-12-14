@@ -1,0 +1,59 @@
+#for{
+
+
+    background-color: #fff;
+    border: 1px solid #D3310C;
+    box-sizing: border-box;
+    border-radius: 5px;
+
+}
+
+/* validação */
+
+#validação_mensagem{
+    width: 320px;
+    height: 30px;
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 0;
+
+    color: #D3310C;
+
+
+}
+
+#validação_mensagem_verde{
+    width: 320px;
+    height: 30px;
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 0;
+
+    color: #1bcf33;
+
+
+}
+#botao_prosseguir{
+    width: 320px;
+    height: 52px;
+
+    background: #1bcf33;
+    border: #D3310C;
+    border-radius: 5px;
+
+    
+
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+}
